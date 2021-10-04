@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Company() {
+const Company = () => {
     return (
         <div>
             <h1>Company</h1>
